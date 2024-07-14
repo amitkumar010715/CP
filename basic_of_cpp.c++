@@ -1,0 +1,1 @@
+cout<<arr[-1] is 0; but vscode give some random value;
